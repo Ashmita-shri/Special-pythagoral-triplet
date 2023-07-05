@@ -15,3 +15,9 @@ def pythagoreanTriplet(n):
         print(max(result))
     else:
         print(-1)
+
+
+t = int(input().strip())
+for a0 in range(t):
+    n = int(input().strip())
+    pythagoreanTriplet(n)
