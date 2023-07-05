@@ -1,6 +1,6 @@
 import sys
 
-# Code for pythagoras triplest
+# Code for pythagoras triples
 def pythagoreanTriplet(n):
     result=[]
     for a in range(1, n):
